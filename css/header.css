@@ -1,4 +1,7 @@
 header{
     width: 100%;
-    height: 100px;
+    height: 30vw;
+    background-image: url(/src/img/acdcBanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }

@@ -2,6 +2,7 @@
 @import url(body.css);
 @import url(header.css);
 @import url(menu-nav.css);
+@import url(banner.css);
 
 @font-face {
     font-family: AcDcType;

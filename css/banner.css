@@ -1,0 +1,8 @@
+#banner{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+#banner img{
+    width: 100%;
+}
