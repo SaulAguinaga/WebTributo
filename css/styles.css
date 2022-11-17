@@ -3,10 +3,19 @@
 @import url(header.css);
 @import url(menu-nav.css);
 @import url(banner.css);
+@import url(main.css);
+@import url(history-paragraph.css);
 
 @font-face {
     font-family: AcDcType;
     src: url('/src/font/squealer.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: modernSans;
+    src: url('/src/font/ModernSans-Light.otf') format('truetype');
     font-style: normal;
     font-weight: normal;
   }
