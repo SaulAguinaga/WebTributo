@@ -1,12 +1,25 @@
+#section-gallery{
+    display: flex;
+    justify-content: center;
+}
+
 #disc-gallery{
     background-color: #780000;
-
+    padding: 1.5%;   
+    display:grid;
+    grid-template: repeat(3, 1fr) / repeat(5, 1fr); 
 }
 
-#disc-gallery div{
-
+.cover{
+    text-align: center;
 }
 
-#disc-gallery div:hover{
+.cover img{
+    width: 80%;
+    padding: 5%;
 
+}
+.cover img:hover{
+    width: 80%;
+    padding: 0%;
 }

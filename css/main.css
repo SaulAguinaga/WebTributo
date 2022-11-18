@@ -1,7 +1,9 @@
 main{
     background-image: url(/src/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: modernSans;
-    color:white;
+    color: white;
     display: flex;
-    justify-content: flex-start;
+    flex-direction: column;
 }
